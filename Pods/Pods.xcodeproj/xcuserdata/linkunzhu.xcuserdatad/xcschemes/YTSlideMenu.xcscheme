@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = '65C01F68D36AF7DC2715949C889A2BF0'
+               BlueprintIdentifier = 'F7D3EA8E013FE46AF9C226FCF26FCA3C'
                BlueprintName = 'YTSlideMenu'
                ReferencedContainer = 'container:Pods.xcodeproj'
                BuildableName = 'libYTSlideMenu.a'>

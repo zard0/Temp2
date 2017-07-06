@@ -8,7 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
-@interface YTInsetsLabel : UILabel
+@interface SomeClass : UILabel
 
 @property (nonatomic, assign) UIEdgeInsets insets;
 

@@ -14,11 +14,6 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>YTHelloWord.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
 		<key>YTSlideMenu.xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -32,17 +27,12 @@
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>65C01F68D36AF7DC2715949C889A2BF0</key>
+		<key>8F92D840CDFBE63BF4710221CE1595D0</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>AF1CB1FB7CB5816750AC50F5ACF5D6C1</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>C33F004DE46F827CB24973B0C88150C3</key>
+		<key>F7D3EA8E013FE46AF9C226FCF26FCA3C</key>
 		<dict>
 			<key>primary</key>
 			<true/>

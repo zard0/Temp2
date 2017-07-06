@@ -6,13 +6,13 @@
 //  Copyright © 2016年 linkunzhu. All rights reserved.
 //
 
-#import "YTInsetsLabel.h"
+#import "SomeClass.h"
 
-@interface YTInsetsLabel()
+@interface SomeClass()
 
 @end
 
-@implementation YTInsetsLabel
+@implementation SomeClass
 
 -(id) initWithFrame:(CGRect)frame andInsets:(UIEdgeInsets)insets {
     self = [super initWithFrame:frame];

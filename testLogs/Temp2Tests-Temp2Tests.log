@@ -1,0 +1,115 @@
+User defaults from command line:
+    IDEDerivedDataPathOverride = /Users/linkunzhu/Library/Developer/Xcode/DerivedData/Temp2-dzauynikzxgzkgaelcpfxxglvxjc
+
+=== BUILD TARGET LKZHelloWord OF PROJECT Pods WITH CONFIGURATION Debug ===
+
+Check dependencies
+
+=== BUILD TARGET YTSlideMenu OF PROJECT Pods WITH CONFIGURATION Debug ===
+Check dependencies
+
+=== BUILD TARGET Pods-Temp2 OF PROJECT Pods WITH CONFIGURATION Debug ===
+
+Check dependencies
+
+=== BUILD TARGET Temp2 OF PROJECT Temp2 WITH CONFIGURATION Debug ===
+
+Check dependencies
+
+PhaseScriptExecution [CP]\ Check\ Pods\ Manifest.lock /Users/linkunzhu/Library/Developer/Xcode/DerivedData/Temp2-dzauynikzxgzkgaelcpfxxglvxjc/Build/Intermediates/Temp2.build/Debug-iphonesimulator/Temp2.build/Script-FAC6FDA7432BA1144E996CDD.sh
+    cd /Users/linkunzhu/Desktop/Git/Temp2
+    /bin/sh -c /Users/linkunzhu/Library/Developer/Xcode/DerivedData/Temp2-dzauynikzxgzkgaelcpfxxglvxjc/Build/Intermediates/Temp2.build/Debug-iphonesimulator/Temp2.build/Script-FAC6FDA7432BA1144E996CDD.sh
+
+PhaseScriptExecution [CP]\ Embed\ Pods\ Frameworks /Users/linkunzhu/Library/Developer/Xcode/DerivedData/Temp2-dzauynikzxgzkgaelcpfxxglvxjc/Build/Intermediates/Temp2.build/Debug-iphonesimulator/Temp2.build/Script-3216CFAF3C669F791D0C7294.sh
+    cd /Users/linkunzhu/Desktop/Git/Temp2
+    /bin/sh -c /Users/linkunzhu/Library/Developer/Xcode/DerivedData/Temp2-dzauynikzxgzkgaelcpfxxglvxjc/Build/Intermediates/Temp2.build/Debug-iphonesimulator/Temp2.build/Script-3216CFAF3C669F791D0C7294.sh
+mkdir -p /Users/linkunzhu/Library/Developer/Xcode/DerivedData/Temp2-dzauynikzxgzkgaelcpfxxglvxjc/Build/Products/Debug-iphonesimulator/Temp2.app/Frameworks
+
+PhaseScriptExecution [CP]\ Copy\ Pods\ Resources /Users/linkunzhu/Library/Developer/Xcode/DerivedData/Temp2-dzauynikzxgzkgaelcpfxxglvxjc/Build/Intermediates/Temp2.build/Debug-iphonesimulator/Temp2.build/Script-7E0D85FAC75A484AA3E64755.sh
+    cd /Users/linkunzhu/Desktop/Git/Temp2
+    /bin/sh -c /Users/linkunzhu/Library/Developer/Xcode/DerivedData/Temp2-dzauynikzxgzkgaelcpfxxglvxjc/Build/Intermediates/Temp2.build/Debug-iphonesimulator/Temp2.build/Script-7E0D85FAC75A484AA3E64755.sh
+building file list ... done
+
+sent 29 bytes  received 20 bytes  98.00 bytes/sec
+total size is 0  speedup is 0.00
+
+=== BUILD TARGET Temp2Tests OF PROJECT Temp2 WITH CONFIGURATION Debug ===
+
+Check dependencies
+
+** BUILD SUCCEEDED **
+
+=== BUILD TARGET LKZHelloWord OF PROJECT Pods WITH CONFIGURATION Debug ===
+
+Check dependencies
+
+=== BUILD TARGET YTSlideMenu OF PROJECT Pods WITH CONFIGURATION Debug ===
+Check dependencies
+
+=== BUILD TARGET Pods-Temp2 OF PROJECT Pods WITH CONFIGURATION Debug ===
+
+Check dependencies
+
+=== BUILD TARGET Temp2 OF PROJECT Temp2 WITH CONFIGURATION Debug ===
+
+Check dependencies
+
+PhaseScriptExecution [CP]\ Check\ Pods\ Manifest.lock /Users/linkunzhu/Library/Developer/Xcode/DerivedData/Temp2-dzauynikzxgzkgaelcpfxxglvxjc/Build/Intermediates/CodeCoverage/Intermediates/Temp2.build/Debug-iphonesimulator/Temp2.build/Script-FAC6FDA7432BA1144E996CDD.sh
+    cd /Users/linkunzhu/Desktop/Git/Temp2
+    /bin/sh -c /Users/linkunzhu/Library/Developer/Xcode/DerivedData/Temp2-dzauynikzxgzkgaelcpfxxglvxjc/Build/Intermediates/CodeCoverage/Intermediates/Temp2.build/Debug-iphonesimulator/Temp2.build/Script-FAC6FDA7432BA1144E996CDD.sh
+
+PhaseScriptExecution [CP]\ Embed\ Pods\ Frameworks /Users/linkunzhu/Library/Developer/Xcode/DerivedData/Temp2-dzauynikzxgzkgaelcpfxxglvxjc/Build/Intermediates/CodeCoverage/Intermediates/Temp2.build/Debug-iphonesimulator/Temp2.build/Script-3216CFAF3C669F791D0C7294.sh
+    cd /Users/linkunzhu/Desktop/Git/Temp2
+    /bin/sh -c /Users/linkunzhu/Library/Developer/Xcode/DerivedData/Temp2-dzauynikzxgzkgaelcpfxxglvxjc/Build/Intermediates/CodeCoverage/Intermediates/Temp2.build/Debug-iphonesimulator/Temp2.build/Script-3216CFAF3C669F791D0C7294.sh
+mkdir -p /Users/linkunzhu/Library/Developer/Xcode/DerivedData/Temp2-dzauynikzxgzkgaelcpfxxglvxjc/Build/Intermediates/CodeCoverage/Products/Debug-iphonesimulator/Temp2.app/Frameworks
+
+PhaseScriptExecution [CP]\ Copy\ Pods\ Resources /Users/linkunzhu/Library/Developer/Xcode/DerivedData/Temp2-dzauynikzxgzkgaelcpfxxglvxjc/Build/Intermediates/CodeCoverage/Intermediates/Temp2.build/Debug-iphonesimulator/Temp2.build/Script-7E0D85FAC75A484AA3E64755.sh
+    cd /Users/linkunzhu/Desktop/Git/Temp2
+    /bin/sh -c /Users/linkunzhu/Library/Developer/Xcode/DerivedData/Temp2-dzauynikzxgzkgaelcpfxxglvxjc/Build/Intermediates/CodeCoverage/Intermediates/Temp2.build/Debug-iphonesimulator/Temp2.build/Script-7E0D85FAC75A484AA3E64755.sh
+building file list ... done
+
+sent 29 bytes  received 20 bytes  98.00 bytes/sec
+total size is 0  speedup is 0.00
+
+=== BUILD TARGET Temp2Tests OF PROJECT Temp2 WITH CONFIGURATION Debug ===
+
+Check dependencies
+
+Test Suite 'All tests' started at 2017-07-06 10:32:40.194
+Test Suite 'Temp2Tests.xctest' started at 2017-07-06 10:32:40.195
+Test Suite 'MyComponentTests' started at 2017-07-06 10:32:40.195
+Test Case '-[MyComponentTests testSayGoodbyeShouldReturn0]' started.
+2017-07-06 10:32:40.206 Temp2[29456:3655261] Goodbye.。..
+Test Case '-[MyComponentTests testSayGoodbyeShouldReturn0]' passed (0.012 seconds).
+Test Case '-[MyComponentTests testSayHelloShouldReturn1]' started.
+2017-07-06 10:32:40.208 Temp2[29456:3655261] Hello..。..
+Test Case '-[MyComponentTests testSayHelloShouldReturn1]' passed (0.001 seconds).
+Test Case '-[MyComponentTests testSayWordsWithType1ShouldReturn0]' started.
+2017-07-06 10:32:40.209 Temp2[29456:3655261] Wrong option!
+Test Case '-[MyComponentTests testSayWordsWithType1ShouldReturn0]' passed (0.001 seconds).
+Test Case '-[MyComponentTests testSayWordsWithType1ShouldReturn1]' started.
+2017-07-06 10:32:40.209 Temp2[29456:3655261] Good day!
+Test Case '-[MyComponentTests testSayWordsWithType1ShouldReturn1]' passed (0.000 seconds).
+Test Case '-[MyComponentTests testSayWordsWithType1ShouldReturn2]' started.
+2017-07-06 10:32:40.210 Temp2[29456:3655261] Good morning!
+Test Case '-[MyComponentTests testSayWordsWithType1ShouldReturn2]' passed (0.001 seconds).
+Test Case '-[MyComponentTests testSayWordsWithType1ShouldReturn3]' started.
+2017-07-06 10:32:40.213 Temp2[29456:3655261] Good afternoon!
+Test Case '-[MyComponentTests testSayWordsWithType1ShouldReturn3]' passed (0.001 seconds).
+Test Suite 'MyComponentTests' passed at 2017-07-06 10:32:40.214.
+	 Executed 6 tests, with 0 failures (0 unexpected) in 0.016 (0.019) seconds
+Test Suite 'Temp2Tests' started at 2017-07-06 10:32:40.215
+Test Case '-[Temp2Tests testGoodJobShoudEqual1]' started.
+Test Case '-[Temp2Tests testGoodJobShoudEqual1]' passed (0.001 seconds).
+Test Case '-[Temp2Tests testGoodJobShoudNotEqual0]' started.
+/Users/linkunzhu/Desktop/Git/Temp2/Temp2Tests/Temp2Tests.m:37: error: -[Temp2Tests testGoodJobShoudNotEqual0] : ((result) is false) failed - GoodJob method should not equal 0
+Test Case '-[Temp2Tests testGoodJobShoudNotEqual0]' failed (0.001 seconds).
+Test Case '-[Temp2Tests testPerformanceExample]' started.
+/Users/linkunzhu/Desktop/Git/Temp2/Temp2Tests/Temp2Tests.m:42: Test Case '-[Temp2Tests testPerformanceExample]' measured [Time, seconds] average: 0.000, relative standard deviation: 120.032%, values: [0.000003, 0.000001, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000], performanceMetricID:com.apple.XCTPerformanceMetric_WallClockTime, baselineName: "", baselineAverage: , maxPercentRegression: 10.000%, maxPercentRelativeStandardDeviation: 10.000%, maxRegression: 0.100, maxStandardDeviation: 0.100
+Test Case '-[Temp2Tests testPerformanceExample]' passed (0.287 seconds).
+Test Suite 'Temp2Tests' failed at 2017-07-06 10:32:40.506.
+	 Executed 3 tests, with 1 failure (0 unexpected) in 0.289 (0.291) seconds
+Test Suite 'Temp2Tests.xctest' failed at 2017-07-06 10:32:40.506.
+	 Executed 9 tests, with 1 failure (0 unexpected) in 0.306 (0.311) seconds
+Test Suite 'All tests' failed at 2017-07-06 10:32:40.506.
+	 Executed 9 tests, with 1 failure (0 unexpected) in 0.306 (0.312) seconds
