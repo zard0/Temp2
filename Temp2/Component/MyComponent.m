@@ -41,4 +41,8 @@
     }
 }
 
+- (void)sayNew{
+    NSLog(@"new method");
+}
+
 @end

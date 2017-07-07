@@ -19,5 +19,6 @@
  @param type <#type description#>
  */
 - (NSInteger)sayWordsWithType:(NSInteger)type;
+- (void)sayNew;
 
 @end
