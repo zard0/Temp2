@@ -1,18 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<testsuites name='Temp2Tests.xctest' tests='9' failures='1'>
+<testsuites name='Temp2Tests.xctest' tests='9' failures='0'>
   <testsuite name='MyComponentTests' tests='6' failures='0'>
-    <testcase classname='MyComponentTests' name='testSayGoodbyeShouldReturn0' time='0.012'/>
+    <testcase classname='MyComponentTests' name='testSayGoodbyeShouldReturn0' time='0.325'/>
     <testcase classname='MyComponentTests' name='testSayHelloShouldReturn1' time='0.001'/>
     <testcase classname='MyComponentTests' name='testSayWordsWithType1ShouldReturn0' time='0.001'/>
     <testcase classname='MyComponentTests' name='testSayWordsWithType1ShouldReturn1' time='0.000'/>
-    <testcase classname='MyComponentTests' name='testSayWordsWithType1ShouldReturn2' time='0.001'/>
-    <testcase classname='MyComponentTests' name='testSayWordsWithType1ShouldReturn3' time='0.001'/>
+    <testcase classname='MyComponentTests' name='testSayWordsWithType1ShouldReturn2' time='0.000'/>
+    <testcase classname='MyComponentTests' name='testSayWordsWithType1ShouldReturn3' time='0.000'/>
   </testsuite>
-  <testsuite name='Temp2Tests' tests='3' failures='1'>
-    <testcase classname='Temp2Tests' name='testGoodJobShoudEqual1' time='0.001'/>
-    <testcase classname='Temp2Tests' name='testGoodJobShoudNotEqual0'>
-      <failure message='((result) is false) failed - GoodJob method should not equal 0'>Temp2Tests/Temp2Tests.m:37</failure>
-    </testcase>
-    <testcase classname='Temp2Tests' name='testPerformanceExample' time='0.287'/>
+  <testsuite name='Temp2Tests' tests='3' failures='0'>
+    <testcase classname='Temp2Tests' name='testGoodJobShoudEqual1' time='0.000'/>
+    <testcase classname='Temp2Tests' name='testGoodJobShoudNotEqual0' time='0.000'/>
+    <testcase classname='Temp2Tests' name='testPerformanceExample' time='3.178'/>
   </testsuite>
 </testsuites>

@@ -33,7 +33,28 @@ platform :ios do
     # match(type: "appstore") # more information: https://codesigning.guide
     #gym # Build your app - more options available
     #pilot
-    firim
+    scan(
+	device:'iPhone 7',
+	workspace:'./Temp2.xcworkspace',
+	scheme:'Temp2Tests',
+	output_directory:'./testReports',
+	output_types:'html,junit',
+	output_files:'htmlReport.html,junitReport.junit',
+	buildlog_path:'./testLogs',
+	clean:true,
+	open_report:true
+   )
+
+    increment_build_number
+    gym(
+        scheme:'Temp2',
+	export_method:'development',
+	output_directory:'./packages'
+    )
+    firim(
+	firim_api_token:'a038ada2d09c2f59ddab67f38f987c33',	
+    	ipa:'./packages/Temp2.ipa'
+    )
 
     # sh "your_script.sh"
     # You can also use other beta testing services here (run `fastlane actions`)
