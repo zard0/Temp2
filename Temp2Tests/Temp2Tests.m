@@ -34,7 +34,7 @@
 - (void)testGoodJobShoudNotEqual0 {
     YTLayoutRule *rule = [[YTLayoutRule alloc] init];
     NSInteger result = [rule goodJob];
-    XCTAssertTrue(result, @"The goodJob method should not equal 0");
+    XCTAssertFalse(result, @"The goodJob method should not equal 0");
 }
 
 - (void)testPerformanceExample {
